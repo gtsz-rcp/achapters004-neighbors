@@ -1,0 +1,11 @@
+*.tex
+*.ai
+*.fls
+*.log
+*.out
+*.pdf
+*.fdb_latexmk
+*.fdb_latexmk
+*.gz
+*.jpg
+*.aux

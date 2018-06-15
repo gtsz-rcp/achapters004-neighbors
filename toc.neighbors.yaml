@@ -1,31 +1,39 @@
 title: "이웃들"
 author: "에이미 앰플"
-date: 2018
-content:
-    - title: "선량한 우리"
-    layout: lyric
-    filename: "good-will"
+dateOfPublished: "2018-06-30"
+cover:
+  - artist: James Tilly
+  - title: illustration of the Air Loom featured in John Haslam’s Illustrations of Madness (1810)
+  - year: 1810
+  - collection: Wellcome Collection
+  - references: https://wellcomecollection.org/works/p6q8g27q?query=L0020897&wellcomeImagesUrl=GET%20/indexplus/image/L0020897.html%20HTTP/1.1
+  - license: Attribution 4.0 International (CC BY 4.0)
 
-    - title: "아유코"
-    layout: lyric
-    filename: ayuko
+content:
+    - title: 선량한 우리
+      layout: lyric
+      filename: "good-will"
+
+    - title: 아유코
+      layout: lyric
+      filename: ayuko
 
     - title: "일대기"
-    layout: lyric
-    filename: chronicles
+      layout: lyric
+      filename: chronicles
 
     - title: "섹션들"
-    layout: article
-    filename: sections
+      layout: article
+      filename: sections
 
     - title: "비자"
-    layout: article
-    filename: visa
+      layout: article
+      filename: visa
 
     - title: "오늘은 무슨 음모를 꾸미며 하루를 보낼까"
-    layout: lyric
-    filename: conspiracy
+      layout: lyric
+      filename: conspiracy
 
     - title: "벽장 속의 드래곤"
-    layout: article
-    filename: dragon
+      layout: article
+      filename: dragon

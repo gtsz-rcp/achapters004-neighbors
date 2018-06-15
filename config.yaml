@@ -1,0 +1,4 @@
+template: "achapters-template"
+manuscriptDirectory: manuscript
+texfileDirectory: tex
+slug: 'neighbors'
