@@ -1,4 +1,7 @@
 template: "achapters-template"
-manuscriptDirectory: manuscript
-texfileDirectory: tex
-slug: 'neighbors'
+manuscript_dir: manuscript
+tex_dir: tex
+codename: neighbors
+working_dir: '.'
+toc_file: "toc.neighbors.yaml"
+manuscript_format: md

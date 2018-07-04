@@ -1,12 +1,11 @@
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(os.getcwd())))
-from BartlebyMachine import main as bartleby
+from BartlebyMachine.bartleby import Bartleby
+from BartlebyMachine.config import Config
 from pypandoc.pandoc_download import download_pandoc
-# # from Bartleby import Bartleby
 
-bartleby = bartleby.Bartleby()
-# bartleby.sample = True
-bartleby.add_toc('toc.neighbors.yaml')
-bartleby.write_latex()
-bartleby.md_to_latex()
+__config_file = os.path.join(os.getcwd(), 'config.yaml')
+Config = Config.instance(config_file = __config_file)
+bartleby = Bartleby(Config)
+bartleby.Scrivener().make_book()

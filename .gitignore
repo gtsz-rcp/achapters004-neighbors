@@ -9,3 +9,7 @@
 *.gz
 *.jpg
 *.aux
+*.png
+*.psd
+*.gdoc
+*.ini

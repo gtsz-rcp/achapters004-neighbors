@@ -1,39 +1,62 @@
-title: "이웃들"
-author: "에이미 앰플"
-dateOfPublished: "2018-06-30"
-cover:
-  - artist: James Tilly
-  - title: illustration of the Air Loom featured in John Haslam’s Illustrations of Madness (1810)
-  - year: 1810
-  - collection: Wellcome Collection
-  - references: https://wellcomecollection.org/works/p6q8g27q?query=L0020897&wellcomeImagesUrl=GET%20/indexplus/image/L0020897.html%20HTTP/1.1
-  - license: Attribution 4.0 International (CC BY 4.0)
+meta:
+  title: 우리가 그렇게 선한데도
+  author: 에이미 앰플
+  date_published: "2018-06-30"
+  editor: 미루
+  designer: 써드엔지니어링카르텔
+  license: 이 책에 수록된 저작물 중 별도로 표기되지 않은 모든 저작물의 저작권은 저자에게 있습니다. 크리에이티브커먼즈 저작자표시-동일조건변경허락 4.0 국제 라이센스
+  publisher:
+      name: 금치산자레시피
+      email: "gtsz.rcp@gmail.com"
+      website: "http://gtszrcp.com"
+      instagram: "gtsz.rcp"
 
-content:
+cover:
+    artwork_type: reproduction
+    artist_firstname: James
+    artist_lastname: Tilly Matthew
+    title: illustration of the Air Loom
+    year: 1810
+    collection: Wellcome Collection
+    references: https://wellcomecollection.org/works/p6q8g27q?query=L0020897&wellcomeImagesUrl=GET%20/indexplus/image/L0020897.html%20HTTP/1.1
+    license: Attribution 4.0 International (CC BY 4.0)
+    source:
+      title: Illustrations of Madness
+      year: 1810
+      city: London
+      publisher: G. Hayden for Rivingtons, etc.
+      author: John Haslam
+
+
+contents:
     - title: 선량한 우리
       layout: lyric
       filename: "good-will"
 
-    - title: 아유코
-      layout: lyric
-      filename: ayuko
-
-    - title: "일대기"
+    - title: 일대기
       layout: lyric
       filename: chronicles
 
-    - title: "섹션들"
+    - title: 섹션들
       layout: article
       filename: sections
 
-    - title: "비자"
+    - title: 비자
       layout: article
       filename: visa
 
-    - title: "오늘은 무슨 음모를 꾸미며 하루를 보낼까"
+    - title: 안부
+      layout: article
+      filename: dear
+
+    - title: 오늘은 무슨 음모를 꾸미며 하루를 보낼까
       layout: lyric
       filename: conspiracy
 
-    - title: "벽장 속의 드래곤"
+    - title: 벽장 속의 드래곤
       layout: article
       filename: dragon
+
+    - title: 부고
+      layout: article
+      filename: obituary
