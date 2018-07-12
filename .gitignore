@@ -13,3 +13,5 @@
 *.psd
 *.gdoc
 *.ini
+PrintKit/*.zip
+.vagrant
